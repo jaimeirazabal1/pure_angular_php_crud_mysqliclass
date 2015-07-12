@@ -1,0 +1,1 @@
+# pure_angular_php_crud_mysqliclass
